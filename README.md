@@ -4,5 +4,6 @@ This repository was created for learning purposes. It carries out the standard t
 Artificial and Convolutional Neural Networks are implemented from scratch as well as with the `PyTorch` and `TensorFlow` libraries.
 
 Inspiration for the code from:
+\n
 https://github.com/TheIndependentCode/Neural-Network
 https://github.com/mnielsen/neural-networks-and-deep-learning
