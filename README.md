@@ -6,4 +6,5 @@ Artificial and Convolutional Neural Networks are implemented from scratch as wel
 Inspiration for the code from:
 <br>
 https://github.com/TheIndependentCode/Neural-Network
+<br>
 https://github.com/mnielsen/neural-networks-and-deep-learning
